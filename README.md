@@ -1,0 +1,2 @@
+# notes
+my learnig notes
